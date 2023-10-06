@@ -1,6 +1,7 @@
 .header {
   width: 40rem;
   margin: 2rem auto 4rem auto;
+  color: #ebb002;
   text-align: center;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.9);
 }
-

@@ -6,7 +6,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url(https://images.unsplash.com/photo-1624719507903-7d8b41c7c9cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80) no-repeat cover center center;
-  background-color: rgb(88, 88, 88);
+  
+  background: url(https://images.unsplash.com/photo-1624719507903-7d8b41c7c9cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80) no-repeat center center;
+  background-color: rgb(60, 60, 60);
   background-blend-mode: lighten;
 }
